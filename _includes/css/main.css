@@ -16,6 +16,10 @@ p.small {
     font-size: 16px;
 }
 
+a:link{
+color: black;
+}
+
 a,
 a:hover,
 a:focus,
