@@ -7,5 +7,9 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Glad to share our corona project that Christian Burdea and I developed during the lockdown in Germany. Our goal was to learn more about Computer Vision because we were both fascinated by this technology, but only had a vague idea about its implementation. Using openCV and various mathematic libraries, we developed a tool that is able to measure a hand simply by using a coin as a reference. We realized that poor lighting and a noisy background inhibits precise results. Nevertheless, our code is able to provide measurements with a usual deviation of approximately +-3mm.
+description: Glad to share our corona project that Christian Burdea and I developed during the lockdown in Germany. 
+
+Our goal was to learn more about Computer Vision because we were both fascinated by this technology, but only had a vague idea about its implementation. Using openCV and various mathematic libraries, we developed a tool that is able to measure a hand simply by using a coin as a reference. 
+
+We realized that poor lighting and a noisy background inhibits precise results. Nevertheless, our code is able to provide measurements with a usual deviation of approximately +-3mm.
 ---
