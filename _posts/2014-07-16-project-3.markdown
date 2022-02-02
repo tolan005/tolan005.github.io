@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: wip.png
+img: graph.png
 alt: image-alt
 description: Work in progress
 ---
