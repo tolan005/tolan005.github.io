@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-18
+img: power_bi.png
+alt: image-alt
+description: PowerBI Dashboard 
+---
