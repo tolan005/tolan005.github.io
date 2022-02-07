@@ -4,5 +4,6 @@ modal-id: 3
 date: 2014-07-16
 img: graph.png
 alt: image-alt
-description: Work in progress
+description: <b>Task</b> For the purpose of an evaluation, companies are to be compared annually on the basis of their total assets. <br/> <b>Problem</b> The comparability of the companies compared is not always given, since, for example, aggregated balance sheet totals of holding companies are compared with balance sheet totals of subsidiaries. In addition, intercompany relationships are not static, but change over time, e.g. due to insolvencies, acquisitions, start-ups, ...<br/> <b>Solution</b> In order to grant the comparability of the comparison of companies, only parent companies were compared, which were additionally categorized by industry. In doing so, an algorihmus was developed that models company relationships using a directed graph and can identify the parent company based on this. In addition, this graph was extended by a time dimension so that the parent company can be identified per year.<br/><b>Learning</b> A seemingly simple problem - not. Relationships between companys can be quite complex (e.g., joint ventures) and involve many special cases to be included when modeling an algorithm. 
+
 ---
